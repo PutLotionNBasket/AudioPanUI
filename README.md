@@ -18,7 +18,7 @@ The goal is subtle, natural spatial awareness across single or multiple monitors
 
 **Scope:** Early public preview for feedback
 
-This build is intended for real-world testing, not final release.
+This build is intended for real-world testing, not final release.  As to being stable, this version has not had any noticeable bugs while running 3 days straight.
 
 ---
 
