@@ -24,6 +24,7 @@ This build is intended for real-world testing, not final release.  As to being s
 
 ## Features
 
+* Note: 'Headphones' & 'Speakers' on the Output selection are for preferable presets - not actually changing audio sources
 * Real-time stereo panning driven by active window position
 * Smooth, equal-power panning, with motion smoothing
 * Independent handling of multiple windows playing audio
