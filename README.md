@@ -13,7 +13,9 @@ The goal is subtle, natural spatial awareness across single or multiple monitors
 ## Status
 
 **Version:** v0.2.0 Alpha
+
 **Stability:** Core engine stable, GPU-safe rendering enabled
+
 **Scope:** Early public preview for feedback
 
 This build is intended for real-world testing, not final release.
